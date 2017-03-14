@@ -1,5 +1,8 @@
 _repo: What-Maisie-Knew_7118
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -15,6 +18,8 @@ description: After her parents' bitter divorce, young Maisie Farange finds herse
   until she is finally compelled to choose her own future. What Maisie Knew is a subtle
   yet devastating portrayal of an innocent adrift in a corrupt society. Part of a
   relaunch of three James titles.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7118#What-Maisie-Knew
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
